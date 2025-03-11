@@ -114,6 +114,10 @@ body {
     gap: 1.25rem;
 }
 
+.faq-dynamic-row img {
+    cursor: pointer;
+}
+
 .faq-dynamic-row_header h3:hover {
     font-size: var(--font-110);
     color: #b02cec;
